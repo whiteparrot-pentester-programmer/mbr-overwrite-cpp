@@ -16,12 +16,12 @@ Compile it by using this command: nasm -f bin data.asm -o data.bin
 convert the bin to hex using a <a href="https://tomeko.net/online_tools/file_to_hex.php?lang=en">converter</a>
 
 # Step 4:
-add the HEX code to the .cpp file where it says paste here "{}"
+add the HEX code to the .cpp file where it says paste here <a href="https://github.com/whiteparrot-pentester-programmer/mbr-overwrite-cpp/blob/main/Src/mbr_overwrite.cpp">"{}"</a> [Line 7] 
 
 # Step 5:
 Compile the cpp using g++ 
 
-# ===========================================
+# ===================================
   
 <p align="center">
      <a>!!I AM NOT RESPONSIBLE FOR YOUR ACTIONS!!</a>

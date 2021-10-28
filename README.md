@@ -22,6 +22,10 @@ add the HEX code to the .cpp file where it says paste here <a href="https://gith
 Compile the cpp using g++ 
 
 # ===================================
+
+  [![C++](https://img.youtube.com/vi/dNVTxXMwres/0.jpg)](https://www.youtube.com/watch?v=dNVTxXMwres)
+
+# ===================================
   
 <p align="center">
      <a>!!I AM NOT RESPONSIBLE FOR YOUR ACTIONS!!</a>
